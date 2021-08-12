@@ -1,1 +1,1 @@
-# MultiAgents_Equipo6
+# Simulación de Sistema Multiagentes
